@@ -16,7 +16,7 @@ I'm a passionate developer currently diving deep into Java and documenting my jo
 
 
 ## 📫 How to Reach Me
-- [LinkedIn](www.linkedin.com/in/rishav-sharma-595b752b3)
+- [LinkedIn](https://www.linkedin.com/in/rishav-sharma-595b752b3/)
 - [Email](rishavsharma21a@gmail.com)
 
 ## 🚀 Let's Collaborate
