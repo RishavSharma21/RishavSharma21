@@ -17,7 +17,8 @@ I'm a passionate developer currently diving deep into Java and documenting my jo
 
 ## 📫 How to Reach Me
 - [LinkedIn](https://www.linkedin.com/in/rishav-sharma-595b752b3/)
-- [Email](rishavsharma21a@gmail.com)
+- [Email](mailto:rishavsharma21a@gmail.com)
+
 
 ## 🚀 Let's Collaborate
 I'm always open to new projects and collaborations. Feel free to reach out if you have an interesting idea or project in mind!
