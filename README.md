@@ -9,7 +9,7 @@ I'm a passionate developer currently diving deep into Java and documenting my jo
 - **Interests**: Object-Oriented Programming, Multithreading, Data Structures
 
 ## 📂 My Repositories
-- [Java Learning Repository](https://github.com/dellg/java): A comprehensive collection of Java topics and examples.
+- [Java Learning Repository](https://github.com/RishavSharma21/LEARNING-JAVA): A comprehensive collection of Java topics and examples.
 
 ## 🌱 Currently Learning
 - Advanced Java concepts
@@ -17,7 +17,6 @@ I'm a passionate developer currently diving deep into Java and documenting my jo
 
 ## 📫 How to Reach Me
 - [LinkedIn](www.linkedin.com/in/rishav-sharma-595b752b3)
-- [Twitter](https://twitter.com/your-twitter-handle)
 - [Email](rishavsharma21a@gmail.com)
 
 ## 🚀 Let's Collaborate
