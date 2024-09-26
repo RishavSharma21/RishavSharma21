@@ -6,7 +6,7 @@ I'm a passionate developer currently diving deep into Java and documenting my jo
 ## 🌟 Skills
 - **Languages**: Java
 - **Technologies**: Git, GitHub, IntelliJ IDEA, VS Code
-- **Interests**: Object-Oriented Programming, Multithreading, Data Structures
+- **Interests**: Object-Oriented Programming, Data Structures
 
 ## 📂 My Repositories
 - [Java Learning Repository](https://github.com/RishavSharma21/LEARNING-JAVA): A comprehensive collection of Java topics and examples.
