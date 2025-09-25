@@ -1,4 +1,4 @@
-# Hi, I'm Rishav 👋  
+# Hi, I'm Rishav 
 
 ## About Me  
 I'm a developer passionate about learning and building projects. Currently, I'm focusing on **Java** and sharing my journey here on GitHub.  
