@@ -15,8 +15,8 @@ I'm a developer passionate about learning and building projects. Currently, I'm 
 Exploring **advanced Java concepts** and improving my problem-solving skills.  
 
 ## Contact  
-- [LinkedIn](https://www.linkedin.com/in/rishav-sharma-595b752b3/)  
-- [Email](mailto:rishavsharma21a@gmail.com)  
+
+- [Email](mailto:rishav.workk@gmail.com)  
 
 ## Let's Collaborate 🚀  
 Open to new ideas, projects, and collaborations — feel free to reach out!
